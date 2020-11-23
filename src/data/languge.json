@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "key": "en",
+      "value": "English"
+    },
+    {
+      "key": "vi",
+      "value": "Vietnamese"
+    },
+    {
+      "key": "jp",
+      "value": "Japanese"
+    },
+    {
+      "key": "cn",
+      "value": "Chinese"
+    },
+    {
+      "key": "fr",
+      "value": "French"
+    },
+    {
+      "key": "th",
+      "value": "Thai"
+    }
+  ]
+}

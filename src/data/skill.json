@@ -1,0 +1,86 @@
+{
+  "code": 200,
+  "error": null,
+  "data": [
+    {
+      "id": "type-technical-skill",
+      "name": "Technical Skills",
+      "groups": [
+        {
+          "id": "group-languages",
+          "name": "Languages",
+          "data": [
+            {
+              "key": "javascript",
+              "name": "Javascript"
+            },
+            {
+              "key": "html",
+              "name": "HTML"
+            },
+            {
+              "key": "css",
+              "name": "CSS"
+            }
+          ]
+        },
+        {
+          "id": "group-teamwork",
+          "name": "Teamwork",
+          "data": [
+            {
+              "key": "Jira",
+              "name": "Jira"
+            },
+            {
+              "key": "scrum-agile",
+              "name": "Scrum-Agile"
+            },
+            {
+              "key": "git",
+              "name": "Git"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "type-other-skill",
+      "name": "Other Skills",
+      "groups": [
+        {
+          "id": "group-soft-skills",
+          "name": "Soft Skills",
+          "data": [
+            {
+              "key": "leadership",
+              "name": "Leadership"
+            },
+            {
+              "key": "communication",
+              "name": "Communication"
+            },
+            {
+              "key": "problem-resolving",
+              "name": "Problem Resolving"
+            }
+          ]
+        },
+        {
+          "id": "group-sport-game",
+          "name": "Sport - Game",
+          "data": [
+            {
+              "key": "aoe",
+              "name": "AOE"
+            },
+            {
+              "key": "football",
+              "name": "Football"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
